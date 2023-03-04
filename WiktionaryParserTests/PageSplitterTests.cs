@@ -1,3 +1,5 @@
+// Copyright (c) David Marek. All rights reserved.
+
 namespace WiktionaryParserTests
 {
     using WiktionaryParser;
@@ -9,7 +11,8 @@ namespace WiktionaryParserTests
         {
             var splitter = new PageSplitter();
             var pages = splitter.SplitPages("C:/Users/damarek/Downloads/dewiktionary/dewiktionary-20230220-pages-articles-multistream.xml");
-            await foreach (var page in pages) {
+            await foreach (var page in pages)
+            {
                 Console.WriteLine(page);
             }
         }

@@ -1,24 +1,29 @@
-﻿namespace Words;
+﻿// Copyright (c) David Marek. All rights reserved.
+
+namespace Words;
 
 public partial class MainPage : ContentPage
 {
-	int count = 0;
+    private int count = 0;
 
-	public MainPage()
-	{
-		InitializeComponent();
-	}
+    public MainPage()
+    {
+        this.InitializeComponent();
+    }
 
-	private void OnCounterClicked(object sender, EventArgs e)
-	{
-		count++;
+    private void OnCounterClicked(object sender, EventArgs e)
+    {
+        this.count++;
 
-		if (count == 1)
-			CounterBtn.Text = $"Clicked {count} time";
-		else
-			CounterBtn.Text = $"Clicked {count} times";
+        if (this.count == 1)
+        {
+            this.CounterBtn.Text = $"Clicked {this.count} time";
+        }
+        else
+        {
+            this.CounterBtn.Text = $"Clicked {this.count} times";
+        }
 
-		SemanticScreenReader.Announce(CounterBtn.Text);
-	}
+        SemanticScreenReader.Announce(this.CounterBtn.Text);
+    }
 }
-

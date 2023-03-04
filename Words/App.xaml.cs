@@ -1,11 +1,13 @@
-﻿namespace Words;
+﻿// Copyright (c) David Marek. All rights reserved.
+
+namespace Words;
 
 public partial class App : Application
 {
-	public App()
-	{
-        InitializeComponent();
+    public App()
+    {
+        this.InitializeComponent();
 
-		MainPage = new AppShell();
-	}
+        this.MainPage = new AppShell();
+    }
 }

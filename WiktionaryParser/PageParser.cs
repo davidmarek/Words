@@ -1,4 +1,6 @@
-﻿namespace WiktionaryParser
+﻿// Copyright (c) David Marek. All rights reserved.
+
+namespace WiktionaryParser
 {
     using System;
     using System.Collections.Generic;
@@ -8,7 +10,8 @@
 
     public enum PartOfSpeech
     {
-        Noun, Verb
+        Noun,
+        Verb,
     }
 
     public enum Gender
@@ -18,9 +21,9 @@
         Neuter,
     }
 
-    public readonly record struct Declensions (string NominativeSingular, string NominativePlural, string GenitivSingular, string GenitivPlural, string DativSingular, string DativPlural, string AkkusativSingular, string AkkusativPlural);
+    public readonly record struct Declensions(string NominativeSingular, string NominativePlural, string GenitivSingular, string GenitivPlural, string DativSingular, string DativPlural, string AkkusativSingular, string AkkusativPlural);
 
-    public record NounProperies (Gender Gender, Declensions Declensions);
+    public record NounProperies(Gender Gender, Declensions Declensions);
 
     public readonly record struct WordPage(string Word, PartOfSpeech PartOfSpeech);
 

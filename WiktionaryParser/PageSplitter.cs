@@ -1,4 +1,6 @@
-﻿namespace WiktionaryParser
+﻿// Copyright (c) David Marek. All rights reserved.
+
+namespace WiktionaryParser
 {
     using System.Xml;
 

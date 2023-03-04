@@ -1,4 +1,6 @@
-﻿namespace Words;
+﻿// Copyright (c) David Marek. All rights reserved.
+
+namespace Words;
 
 using Android.App;
 using Android.Content.PM;
