@@ -3,8 +3,7 @@
 namespace WiktionaryParser
 {
     using System.Xml;
-
-    public readonly record struct Page(int Namespace, string Title, string Text);
+    using WiktionaryParser.Models;
 
     public class PageSplitter
     {
@@ -22,6 +21,7 @@ namespace WiktionaryParser
                         {
                             yield return page;
                         }
+
                         break;
                     default:
                         Console.WriteLine(xmlReader.Name);
