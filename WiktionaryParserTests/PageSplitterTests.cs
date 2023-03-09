@@ -10,10 +10,11 @@ namespace WiktionaryParserTests
         public async Task SplitPages_WiktionaryDump()
         {
             var splitter = new PageSplitter();
+            var parser = new PageParser();
             var pages = splitter.SplitPages("C:/Users/damarek/Downloads/dewiktionary/dewiktionary-20230220-pages-articles-multistream.xml");
             await foreach (var page in pages)
             {
-                Console.WriteLine(page);
+                parser.ParseWord(page);
             }
         }
     }

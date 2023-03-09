@@ -4,9 +4,9 @@ namespace WiktionaryParser.Models;
 
 public record Declensions
 {
-    public string? NominativeSingular { get; init; }
+    public string? NominativSingular { get; init; }
 
-    public string? NominativePlural { get; init; }
+    public string? NominativPlural { get; init; }
 
     public string? GenitivSingular { get; init; }
 
