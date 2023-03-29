@@ -5,11 +5,6 @@ namespace WiktionaryParser
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Reflection.Metadata.Ecma335;
-    using System.Text;
-    using System.Text.RegularExpressions;
-    using System.Threading.Tasks;
-    using System.Transactions;
     using WiktionaryParser.Models;
 
     public class PageParser
@@ -32,10 +27,17 @@ namespace WiktionaryParser
                     properties["title"] = match.Groups["title"].Value;
                     properties["language"] = match.Groups["language"].Value;
                 }),
-                new RegexAction(@"^=== \{\{Wortart\|(?<partOfSpeech>.*)\|Deutsch\}\}, \{\{(?<gender>.*)\}\} ===$", (match, properties) =>
+                new RegexAction(@"^=== \{\{Wortart\|(?<partOfSpeech>.*)\|Deutsch\}\}(, (\{\{(?<gender>.*)\}\}|''(?<verbType>.*)'')) ===$", (match, properties) =>
                 {
                     properties["partOfSpeech"] = match.Groups["partOfSpeech"].Value;
-                    properties["gender"] = match.Groups["gender"].Value;
+                    if (match.Groups["gender"].Success) {
+                        properties["gender"] = match.Groups["gender"].Value;
+                    }
+
+                    if (match.Groups["verbType"].Success)
+                    {
+                        properties["verbType"] = match.Groups["verbType"].Value;
+                    }
                 }),
                 new RegexAction(@"^\|(?<case>Nominativ|Genitiv|Dativ|Akkusativ) (?<number>Singular|Plural)=(?<word>.*)$", (match, properties) =>
                 {
@@ -103,15 +105,21 @@ namespace WiktionaryParser
                     AkkusativSingular = properties["akkusativ_singular"],
                     AkkusativPlural = properties["akkusativ_plural"],
                 }));
+            } else if (properties["partOfSpeech"] == "Verb")
+            {
+                this.parsedWords.Add(new Verb(properties["title"], new Conjugations
+                {
+
+                }));
             }
         }
 
-        private Gender ParseGender(string gender) => gender switch
+        private static Gender ParseGender(string gender) => gender switch
             {
                 "n" => Gender.Neuter,
                 "f" => Gender.Feminine,
                 "m" => Gender.Masculin,
-                _ => throw new Exception("Invalid gender")
+                _ => throw new Exception("Invalid gender"),
             };
     }
 }
