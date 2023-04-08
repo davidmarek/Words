@@ -1,0 +1,490 @@
+﻿== laufen ({{Sprache|Deutsch}}) ==
+=== {{Wortart|Verb|Deutsch}} ===
+
+{{Deutsch Verb Übersicht
+|Präsens_ich=laufe
+|Präsens_du=läufst
+|Präsens_er, sie, es=läuft
+|Präteritum_ich=lief
+|Partizip II=gelaufen
+|Konjunktiv II_ich=liefe
+|Imperativ Singular=lauf
+|Imperativ Singular*=laufe
+|Imperativ Plural=lauft
+|Hilfsverb=sein
+|Hilfsverb*=haben
+}}
+
+[[File:Dettagli_(4008501292).jpg|miniatur|[1] [[Mensch]]en ''laufen'' auf [[zwei]] [[Bein]]en]]
+[[File:White-tailed Jackrabbit on Seedskadee NWR (22852956323).jpg|miniatur|[1] ein [[Hase]] [[können|kann]] ganz [[schnell]] ''laufen'']]
+[[File:2012-01-11 12-03-36 Spain Canarias Jandía.jpg|miniatur|[1] ganz [[entspannt]] am [[Strand]] ''laufen'']]
+[[File:Hilda Dokubo crying 1.jpg|miniatur|[2] [[Träne]]n ''laufen'' über [[Wange]]n]]
+[[File:WWS Bandsaw.ogg|miniatur|[3] diese [[Säge]] ''läuft'' [[ziemlich]] [[schnell]]]]
+
+{{Worttrennung}}
+:lau·fen, {{Prät.}} lief, {{Part.}} ge·lau·fen
+
+{{Aussprache}}
+:{{IPA}} {{Lautschrift|ˈlaʊ̯fn̩}}, {{Lautschrift|ˈlaʊ̯fm̩}}
+:{{Hörbeispiele}} {{Audio|De-laufen.ogg}}, {{Audio|De-laufen2.ogg}}
+:{{Reime}} {{Reim|aʊ̯fn̩|Deutsch}}
+
+{{Bedeutungen}}
+*{{K|sein}}
+:[1] {{K|von [[Lebewesen]] allgemein}} sich auf den [[Bein]]en oder [[Gliedmaße]]n [[fortbewegen]]; regional verschieden hat dieses Verb die Grundbedeutung „[[schnell]] [[gehen]]“ oder mit „[[mäßig]]er [[Geschwindigkeit]] gehen“, aber es wird überregional für mäßiges (bzw. langsames) Gehen in dem Ausdruck „das Kind läuft schon“ benutzt und wird in entsprechendem Kontext auch in solchen Regionen als mäßiges Gehen verstanden, wo üblicherweise „gehen“ statt „laufen“ benutzt wird (z.B. „nach Hause laufen“, süddeutsch und österreichisch „nach Hause gehen“) 
+:[2] {{K|von [[Flüssigkeit]]en}} sich [[fortbewegen]], [[fließen]]d in irgendwohin [[bewegen]]
+:[3] {{K|von [[technisch]]en [[Einrichtung]]en}} [[funktionstüchtig]] oder [[anschalten|angeschaltet]] sein
+:[4] {{K|jemanden laufen lassen|ugs.}} einen [[Gefangener|Gefangenen]] [[freigeben]], [[freilassen]]
+:[5] {{K|von [[Vorführung]]en, [[Film]]en, [[Fernsehen]]}} [[darbieten|dargeboten]] oder [[ausstrahlen|ausgestrahlt]] werden
+:[6] sich auf eine [[bestimmt]]e [[Art und Weise]] [[ereignen]], [[geschehen]] oder [[entwickeln]]
+:[7] in eine [[bestimmt]]e [[Richtung]] [[verlaufen]], sich [[erstrecken]]
+:[8] [[Geltung]] oder [[Wirkung]] haben; über einen [[bestimmt]]en [[Zeitraum]] [[andauern]]
+:[9] sich mit einem [[Sportgerät]] [[fortbewegen]], das an den [[Fuß|Füßen]] [[befestigt]] ist (zum Beispiel [[Rollschuh]], [[Ski]] und so weiter)
+:[10] in [[Zusammenhang]] mit einem [[sportlich]]en [[Wettkampf]] laufen (im Sinne von [1])
+:[11] (als [[Besitzer]]) in einer [[Liste]], [[Kartei]] oder Ähnlichem [[eintragen|eingetragen]], [[registrieren|registriert]] sein
+*{{K|haben}}
+:[12] {{K|reflexiv|haben}} durch Laufen (im Sinne von [1]) einen [[bestimmt]]en [[Zustand]] beziehungsweise ein [[Befinden]] [[herbeiführen]]
+
+{{Herkunft}}
+:mittelhochdeutsch ''loufen'', althochdeutsch ''(h)louf(f)an'', germanisch *''hlaup-a-'' „laufen“, weitere Herkunft unklar. Das Wort ist seit dem 8. Jahrhundert belegt.<ref>{{Lit-Kluge: Etymologisches Wörterbuch|A=24}}, Stichwort: „laufen“, Seite 561.</ref>
+
+{{Synonyme}}
+:[1] [[rennen]], [[spazieren gehen]], [[sprinten]]
+:[2] [[rinnen]], [[fließen]]
+:[8] [[ablaufen]], [[entwickeln]], [[ereignen]], [[funktionieren]], [[geschehen]]
+
+{{Sinnverwandte Wörter}}
+:[1] [[fortbewegen]], [[gehen]], [[marschieren]], [[schreiten]], [[spazieren]], [[trippeln]]
+:[5] [[aufführen]], [[ausstrahlen]], [[senden]]
+
+{{Gegenwörter}}
+:[1–3] [[stehen]]
+
+{{Beispiele}}
+:[1] Das Kind fängt bald an zu ''laufen''.
+:[1] Der Hund ''läuft'' hinter dem Auto her.
+:[1] Der Vogel fliegt, der Fisch schwimmt, der Mensch sollte eigentlich ''laufen'' – warum tut er’s nicht?
+:[1] „Hoffmann ist 52 und sieht aus, als ''liefe'' er Marathon oder betriebe Höhenbergsteigen: fast mager, immer ein bisschen durch den Wind.“<ref>{{Per-Zeit Online|Online=https://www.zeit.de/2011/38/KS-Hoffmann |Autor= Christine Lemke.Matwey|Titel= Schon 17.343 Followers |Tag= 15|Monat=09 |Jahr= 2011|zugriff=2020-03-27}}</ref>
+:[1] „Auf der Jagd nach Pokémon ''liefen'' Menschen in dem südosteuropäischen Land in Gegenden, die voll mit scharfen Landminen sind.“<ref>{{Per-Deutsche Welle | Online=http://dw.com/p/1JSbc | Autor=Carla Bleiker | Titel=Kultur - Durchs Minenfeld für Pokémon Go | TitelErg=Pokémon-Go-Spieler landen häufig an Orten, an denen sie so gar nichts verloren haben. Hin und wieder bringen sich die Pikachu-Jäger sogar in Lebensgefahr. | Tag=22 | Monat=07 | Jahr=2016 | Zugriff=2016-11-25 | Kommentar= }}</ref>
+:[2] Das Wasser ''läuft'' den Boden entlang.
+:[2] „Etwa zehn Millionen Fass Öl sollen in den vergangenen 50 Jahren ins Niger-Delta ''gelaufen'' sein.“<ref>{{Per-Deutsche Welle | Online=http://dw.com/p/12DOy | Autor=Julia Hahn
+Redaktion: Katrin Ogunsade | Titel=Afrika - Kampf gegen die Ölpest im Niger-Delta | TitelErg=Giftiges Trinkwasser, tote Bäume. Das Geschäft mit dem Öl hat die Umwelt im nigerianischen Ogoniland verpestet. Eine UN-Studie dokumentiert erstmals das Ausmaß der Öl-Katastrophe. Wird endlich aufgeräumt im Niger-Delta? | Tag=09 | Monat=06 | Jahr=2011 | Zugriff=2016-11-25 | Kommentar= }}</ref>
+:[2] „Das ist kein natürlicher See, sondern eine ehemalige Kiesgrube, die voller Wasser ''gelaufen'' ist.“<ref>{{Per-Deutsche Welle | Online=http://dw.com/p/5F5m | Autor=Suzanne Cords | Titel=Alltagsdeutsch – Podcast - Sommer | TitelErg=Im Sommer genießen viele Menschen das warme, sonnige Wetter. Wem es doch zu heiß wird, der springt einfach ins kühle Wasser. Doch gerade an Seen gibt es besonders viele Mücken und andere stechende Plagegeister | Tag=27 | Monat=06 | Jahr=2007 | Zugriff=2016-11-25 }}</ref>
+:[2] „Meine rechte Gesichtshälfte ist auf den schwarzen Theaterboden gepresst. Speichel ''läuft'' mir langsam aus dem Mund. Meine Augen sind weit geöffnet, mein Atem stockt, mein Körper ist erstarrt. Ich bin tot.“<ref>{{Per-Deutsche Welle | Online=http://dw.com/p/1Cmob | Autor=Pia Schneider | Titel=Sprachbar - Ich will Theater! | TitelErg=Auf den Brettern, die die Welt bedeuten, ist es sehr wichtig: Theater zu spielen. Theatralik oder Theater zu machen kommen nicht gut an. Authentizität ist das, was zählt – auch für Schauspieler, die ans Theater wollen | Tag=01 | Monat=10 | Jahr=2014 | Zugriff=2016-11-26 | Kommentar= }}</ref>
+:[3] „Der Computer ''läuft'' wieder!“
+:[3] „Muss denn der Fernseher den ganzen Tag ''laufen''? Können wir den nicht mal ausmachen?“
+:[3] „Die Waschmaschine ''läuft'' gerade.“
+:[3] „Die ISS ist das größte Weltraumlabor aller Zeiten. 16 Nationen sind an dem Forschungsprojekt beteiligt, das seit November 1998 ''läuft''.“<ref>{{Per-Südwestrundfunk | Online=https://www.kindernetz.de/infonetz/technikundumwelt/raumfahrt/iss/-/id=36062/nid=36062/did=36040/1lsok2x/index.html | Autor=Sandra Goller | Titel=Raumstation ISS | TitelErg=International Space Station - die internationale Raumstation | Tag=19 | Monat=11 | Jahr=2018 | Zugriff=2018-11-20 | Kommentar=SWR Kindernetz }}</ref>
+:[4] „Ich lasse dich ''laufen''.“
+:[4] Die Polizisten haben die Verdächtigen ''laufen'' gelassen.
+:[5] „Was ''läuft'' heute Abend im Kino?“
+:[5] „Nach der Zeit von ‚Cats‘ kam ‚Fosse - die Show‘ zur Aufführung, gefolgt von ‚Oh, what a Night!‘. Diese Shows ''liefen'' jeweils nur ein paar Monate. Am 3. November 2002 folgte ‚Mamma Mia!‘, ein ABBA-Musical. Das sehr erfolgreiche Stück ''lief'' bis zum 8. September 2007.“<ref>{{Wikipedia|Operettenhaus|oldid=159863461}}</ref>
+:[5] „So ''läuft'' derzeit das Stück ‚Die Saison der Krabben‘ von Hakan Savas Mican, das in der Naunynstraße seine Uraufführung hatte.“<ref>{{Per-Deutsche Welle | Online=http://dw.com/p/16Eg6 | Autor=Klaudia Prevezanos | Titel=Kultur - Migration im Theater - mehr als ein Alibi? | TitelErg=Das Thema Migration ist in der deutschen Theaterszene angekommen. Motor dafür war das kleine Theater Ballhaus Naunynstraße in Berlin. Doch was ist wirklich erreicht worden und wie geht es weiter | Tag=29 | Monat=09 | Jahr=2012 | Zugriff=2016-11-26 }}</ref>
+:[6] Es ''läuft'' zur Zeit alles gut.
+:[6] Wie ist es in der Schule heute ''gelaufen''?
+:[7] Der Fluss ''läuft'' etwa hundert Kilometer nach Norden.
+:[7] Die Straße ''läuft'' an der Kirche vorbei.
+:[7] Ich glaube, dass der Wanderweg um den See ''läuft''.
+:[8] Der Vertrag ''läuft'' bis Ende des Jahres.
+:[9] Er ''läuft'' gern Schlittschuh, aber manchmal ''läuft'' er auch Rollschuh.
+:[9] Die Kinder lernen, wie man richtig Ski ''läuft''.
+:[10] Usain Bolt ''lief'' eine Strecke von hundert Metern in unter zehn Sekunden.
+:[11] Das Bankkonto ''läuft'' noch unter dem Namen seiner Eltern.
+:[12] „Er hat sich eine Blase ''gelaufen'', nicht weiter schlimm.“<ref>Sander, Laurin: Der geschiedene Mann : Roman. Freiburg: Laurin Sander, 2008, S. 100.</ref>
+:[12] „Er hat sich müde ''gelaufen''.“<ref>Wόrzbach, Natascha: Das magische Tintenfass : Fast ein Roman. Magdeburg: Pro Business, 2017, S. 159.</ref>
+
+{{Redewendungen}}
+:[[dumm gelaufen|dumm ''gelaufen'']]!
+:[[Gefahr laufen|Gefahr ''laufen'']]
+:[[jemandem ist eine Laus über die Leber gelaufen|jemandem ''ist'' eine Laus über die Leber ''gelaufen'']]
+:jemandem [[über den Weg laufen|über den ''Weg'' laufen]] ({{Audio|De-über den Weg laufen.ogg|Audio}}) – jemanden [[zufällig]] [[treffen]]
+:[[wie geschmiert laufen|wie geschmiert ''laufen'']]
+:[[aufziehen und laufen lassen|aufziehen und ''laufen'' lassen]] (von rollendem Spielzeug mit Aufzieh-Feder und – in übertragenen Sinne – von Menschen, über die man sich zuerst lustig macht und die man dann ignoriert)
+
+{{Charakteristische Wortkombinationen}}
+:[1] [[um die Wette]] ''laufen''
+:[3] ''auch [[figurativ]]:'' [[gut]] ''laufen'', [[rund]] ''laufen'', [[schlecht]] ''laufen''
+:[5] am [[Broadway]] ''laufen'', im [[Fernsehen]] ''laufen'', im [[Kino]] ''laufen'', am [[Theater]] ''laufen''
+:[12] sich eine [[Blase]] ''laufen'', sich einen [[Wolf]] ''laufen'', sich [[außer]] [[Atem]], [[müde]], [[warm]] ''laufen''
+
+{{Wortbildungen}}
+:''[[Verben]]:'' [[ablaufen]], [[anlaufen]], [[auflaufen]], [[auseinanderlaufen]], [[auslaufen]], [[auswärtslaufen]], [[belaufen]], [[davonlaufen]], [[durcheinanderlaufen]], [[durchlaufen]], [[einlaufen]], [[einwärtslaufen]], [[eislaufen]], [[entgegenlaufen]], [[entlanglaufen]], [[entlaufen]], [[erlaufen]], [[festlaufen]], [[fortlaufend]], [[freilaufen]], [[gegenläufig]], [[geläufig]], [[fortlaufen]], [[hergelaufen]], [[heimlaufen]], [[heißlaufen]], [[herauflaufen]], [[herauslaufen]], [[herbeilaufen]], [[hereinlaufen]], [[herlaufen]], [[herüberlaufen]], [[herumlaufen]], [[herunterlaufen]], [[hierherlaufen]], [[hinauflaufen]], [[hinauslaufen]], [[hineinlaufen]], [[hinlaufen]], [[hintereinanderlaufen]], [[hinterherlaufen]], [[hinterlaufen]], [[hinüberlaufen]], [[hinunterlaufen]], [[hinzulaufen]], [[hochlaufen]], [[ineinanderlaufen]], [[leerlaufen]], [[loslaufen]], [[mitlaufen]], [[nachlaufen]], [[nebenherlaufen]], [[paarlaufen]], [[probelaufen]], [[rauslaufen]], [[rumlaufen]], [[schaulaufen]], [[schieflaufen]], [[totlaufen]], [[überlaufen]], [[umherlaufen]], [[umlaufen]], [[unterlaufen]], [[verlaufen]], [[vorlaufen]], [[volllaufen]], [[vorauslaufen]], [[vorbeilaufen]], [[vorlaufen]], [[vorüberlaufen]], [[warmlaufen]], [[weglaufen]], [[weiterlaufen]], [[wettlaufen]], [[zerlaufen]], [[zulaufen]], [[zurücklaufen]], [[zusammenlaufen]], [[zuwiderlaufen]]
+:''[[Substantive]]:'' [[Geläuf]], [[Lauf]], [[Laufband]], [[Laufbursche]], [[Läufer]], [[Lauffeuer]], [[Laufhaus]], [[Laufkatze]], [[Laufrad]], [[Laufschritt]], [[Laufschuh]], [[Laufstall]], [[Laufstärke]], [[Lauftrainer]], [[Lauftraining]], [[Laufwettbewerb]], [[Laufzeit]]
+:''[[Adjektive]]:'' [[läufig]], [[laufstark]]
+
+==== {{Übersetzungen}} ====
+{{Ü-Tabelle|1|G=|Ü-Liste=
+*{{eu}}: korrika {{Ü|eu|egin}}
+*{{da}}: {{Ü|da|løbe}}
+*{{en}}: {{Ü|en|run}}
+*{{eo}}: {{Ü|eo|kuri}}
+*{{fo}}: {{Ü|fo|leypa}}
+*{{fi}}: {{Ü|fi|juosta}}
+*{{fr}}: {{Ü|fr|courir}}
+*{{gl}}: {{Ü|gl|correr}}
+*{{ka}}: {{Üt|ka|სირბილი|sirbili}}
+*{{el}}: {{Üt|el|περπατώ|perpató}}, {{Üt|el|πηγαίνω|pigéno}}, {{Üt|el|τρέχω|trécho}}
+*{{id}}: {{Ü|id|berlari}}
+*{{ia}}: {{Ü|ia|currer}}
+*{{is}}: {{Ü|is|labba}}
+*{{it}}: {{Ü|it|correre}}
+*{{ja}}: {{Üt|ja|走る|はしる, hashiru}}
+*{{ca}}: {{Ü|ca|córrer}}
+*{{ku}}:
+**{{kmr}}: {{Ü|kmr|bazdan}}
+*{{la}}: {{Ü|la|currere}}
+*{{lv}}: {{Ü|lv|skriet}}
+*{{nl}}: {{Ü|nl|rennen}}, {{Ü|nl|hollen}}
+*{{no}}: {{Ü|no|løpe}}, {{Ü|no|gå}}
+*{{fa}}:
+**Farsi, {{prs|DMG}}: ''je nach Kontext:'' {{Üxx4|fa|راه رفتن|d=rāh räftän|DMG=0}}, {{Üxx4|fa|رفتن|d=räftän|DMG=0}}, {{Üxx4|fa|دویدن|d=dävīdän|DMG=0}}
+*{{pl}}: {{Ü|pl|biegać}}, {{Ü|pl|biec}}
+*{{pt}}: {{Ü|pt|correr}}
+*{{ro}}: {{Ü|ro|alerga}}, {{Ü|ro|merge|a merge}}
+*{{ru}}: {{Üt|ru|бежать}}
+*{{sv}}: {{Ü|sv|springa}}, {{Ü|sv|löpa}}
+*{{sr}}: {{Üt|sr|трчати|trčati}}
+*{{sl}}: {{Ü|sl|teči}}
+*{{es}}: {{Ü|es|correr}}
+*{{cs}}: {{Ü|cs|běžet}}/{{Ü|cs|běhat}}, {{Ü|cs|utíkat}}
+*{{tr}}: {{Ü|tr|koşmak}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|2|G=von Flüssigkeiten: sich fortbewegen, fließend in irgendwohin bewegen|Ü-Liste=
+*{{eu}}: {{Ü|eu|ibili}}
+*{{en}}: {{Ü|en|walk}}
+*{{eo}}: {{Ü|eo|flui}}
+*{{fr}}: {{Ü|fr|marcher}}
+*{{el}}: {{Üt|el|τρέχω|trécho}}
+*{{ia}}: {{Ü|ia|fluer}}
+*{{it}}: {{Ü|it|camminare}}
+*{{ja}}: {{Üt|ja|歩く|あるく, aruku}}, {{Üt|ja|歩む|あゆむ, ayumu}}
+*{{ca}}: {{Ü|ca|caminar}}
+*{{nl}}: {{Ü|nl|lopen}}
+*{{fa}}:
+**Farsi, {{prs|DMG}}: ''je nach Kontext:'' {{Üxx4|fa|جاری شدن|d=ǧārī šodän|DMG=0}}, {{Üxx4|fa|روان شدن|d=rävān šodän|DMG=0}}
+*{{pt}}: {{Ü|pt|andar}}, {{Ü|pt|caminhar}}
+*{{ro}}: {{Ü|ro|curge|a curge}}, {{Ü|ro|scurge|a se scurge}}
+*{{ru}}: {{Üt|ru|идти}}
+*{{sv}}: {{Ü|sv|flyta}}, {{Ü|sv|rinna}}, {{Ü|sv|löpa}}
+*{{sl}}: {{Ü|sl|teči}}, {{Ü|sl|iti}}
+*{{es}}: {{Ü|es|andar}}
+*{{cs}}: {{Ü|cs|běžet}}/{{Ü|cs|běhat}}, {{Ü|cs|utíkat}}
+*{{tr}}: {{Ü|tr|yürümek}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|3|G=von technischen Einrichtungen: funktionstüchtig oder angeschaltet sein|Ü-Liste=
+*{{eo}}: {{Ü|eo|funkcii}}
+*{{fr}}: {{Ü|fr|couler}}
+*{{el}}: {{Üt|el|δουλεύω|doulévo}}, {{Üt|el|λειτουργώ|litourgó}}
+*{{ca}}: {{Ü|ca|funcionar}}, {{Ü|ca|estar engegat}}
+*{{nl}}: {{Ü|nl|lopen}}
+*{{fa}}:
+**Farsi, {{prs|DMG}}: {{Üxx4|fa|کار کردن|d=kār kardän|DMG=0}}
+*{{pl}}: {{Ü|pl|działać}}
+*{{pt}}: {{Ü|pt|funcionar}}
+*{{ro}}: {{Ü|ro|merge|a merge}}, {{Ü|ro|funcționa|a funcționa}}
+*{{ru}}: {{Üt|ru|течь}}
+*{{sv}}: {{Ü|sv|gå}}, {{Ü|sv|vara i gång}}
+*{{sl}}: {{Ü|sl|teči}}
+*{{es}}: {{Ü|es|marchar}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|4|G=jemanden laufen lassen, umgangssprachlich: einen Gefangenen freigeben, freilassen|Ü-Liste=
+*{{eo}}: {{Ü|eo|ne reteni iun}}
+*{{fr}}: {{Ü|fr|marcher}}, {{Ü|fr|tourner}}
+*{{ca}}: {{Ü|ca|marxar}}
+*{{nl}}: {{Ü|nl|lopen}}, {{Ü|nl|werken}}
+*{{ro}}: {{Ü|ro|elibera|a elibera}}
+*{{ru}}: {{Üt|ru|работать}}
+*{{sv}}: {{Ü|sv|löpa}}
+*{{sl}}: {{Ü|sl|teči}}, {{Ü|sl|delati}}
+*{{es}}: {{Ü|es|soltar}}, {{Ü|es|dejar en libertad}}
+*{{cs}}: {{Ü|cs|běžet}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|5|G=von Vorführungen, Filmen, Fernsehen: dargeboten oder ausgestrahlt werden|Ü-Liste=
+*{{fr}}: {{Ü|fr|filer}}
+*{{ca}}: {{Ü|ca|projectar-se}}
+*{{pt}}: {{Ü|pt|passar}}
+*{{ro}}: {{Ü|ro|fi|a fi}}, {{Ü|ro|rula|a rula}}
+*{{ru}}: {{Üt|ru|отпустить}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|6|G=sich auf eine bestimmte Art und Weise ereignen, geschehen oder entwickeln|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+*{{ro}}: {{Ü|ro|merge|a merge}}, {{Ü|ro|decurge|a decurge}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|7|G=in eine bestimmte Richtung verlaufen, sich erstrecken|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+*{{ro}}: {{Ü|ro|merge|a merge}}, {{Ü|ro|trece|a trece}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|8|G=Geltung oder Wirkung haben; über einen bestimmten Zeitraum andauern|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+*{{ro}}: {{Ü|ro|derula|a se derula}}, {{Ü|ro|rula|a rula}}, {{Ü|ro|decurge|a decurge}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|9|G=|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+*{{ro}}: {{Ü|ro|merge|a merge cu}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|10|G=|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+*{{ro}}: {{Ü|ro|alerga|a alerga}}, {{Ü|ro|parcurge|a parcurge}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|11|G=(als Besitzer) in einer Liste, Kartei oder Ähnlichem eingetragen, registriert sein|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Ü-Tabelle|12|G=|Ü-Liste=
+*{{en}}: {{Ü|en|}}
+*{{fr}}: {{Ü|fr|}}
+|Dialekttabelle=
+*Mitteldeutsch:
+**{{pfl}}: [?] {{Lautschrift|ˈlɑːfə}}
+**[[Ripuarisch]]:
+***[[Kölsch]] [?]: laufe loufə
+**Berlinerisch: [?] loofen
+**[[Thüringisch-Obersächsisch]]:
+***[[Obersächsisch]]:
+****[[Meißnisch]]: [?] loofen
+****[[Osterländisch]]: [?] loofen
+*Münsterländisch: [?] rennsten
+*Oberdeutsch:
+**{{als}}:
+***Schwäbisch: [1] laufe, schbrenga, saua
+***[[Jaun]]: [?] loufe
+***Vorarlbergerisch: [?] loufa
+***Badisch: [?] laufe
+**{{bar}}: [?] laffa, renna
+**Erzgebirgisch: [?] laafn
+}}
+
+{{Referenzen}}
+:[1–3, 5–12] {{Ref-DWDS}}
+:[*] {{Ref-UniLeipzig}}
+:[1–12] {{Ref-FreeDictionary}}
+:[1–12] {{Ref-Duden}}
+
+{{Quellen}}
+
+{{Ähnlichkeiten 1|[[Haufen]], [[kaufen]], [[Laffen]], [[Lauben]], [[Lauffen]], [[laugen]], [[Laugen]], [[Launen]], [[lausen]], [[lauten]], [[Lauten]], [[raufen]], [[saufen]], [[taufen]], [[Taufen]]|Anagramme=[[faulen]], [[Faulen]], [[flauen]]}}
